@@ -1,5 +1,5 @@
 # Udemy-clone
-Welcome to our Udemy clone website, a modern, responsive platform designed to offer a seamless learning experience. Built using HTML and CSS, this website mirrors the core functionalities of popular online learning platforms, providing users with an intuitive interface to explore various courses.
+Welcome to my Udemy clone website, a modern, responsive platform designed to offer a seamless learning experience. Built using HTML and CSS, this website mirrors the core functionalities of popular online learning platforms, providing users with an intuitive interface to explore various courses.
 
 Key Features:
 User-Friendly Design: The layout is clean and easy to navigate, ensuring that users can effortlessly browse through categories, featured courses, and instructor profiles.
